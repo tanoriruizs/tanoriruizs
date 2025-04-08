@@ -1,8 +1,10 @@
-<h2 align="center">¡Hola 👋! Mi nombre es Sebastián Guadalupe Tanori Ruiz, soy desarrollador de software.</h2>
 
 ###
 
-<p align="center">Me apasiona aprender nuevas tecnologías todos los días y colaborar en proyectos interesantes.</p>
+<p align="center">
+  Desarrollador de software enfocado en crear soluciones seguras, con gran interés en la ciberseguridad y la mejora continua.
+</p>
+
 
 ###
 
