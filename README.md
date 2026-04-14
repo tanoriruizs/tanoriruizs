@@ -1,18 +1,24 @@
-
-###
-
-<p align="center">
-  Desarrollador de software enfocado en crear soluciones seguras, con gran interés en la ciberseguridad y la mejora continua.
-</p>
-
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanoriruizs&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&order=1" height="150" alt="gráfico de estadísticas"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tanoriruizs&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="gráfico de lenguajes"  />
+
+### Software Developer & Cybersecurity Enthusiast
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-guadalupe-tanori-ruiz-baa654262/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tanoriruizs@gmail.com)
+
 </div>
 
-###
+---
 
+Desarrollador de software enfocado en crear soluciones seguras y escalables. Experiencia en aplicaciones web full-stack, integración de APIs y sistemas de control de acceso con biometría. Siempre aprendiendo, siempre construyendo.
 
+---
+
+<div align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhjcDFpMnIwMG5rdWYwNmFtOXJpNHAxOWJ1Y2hnaXBxcmVrcWJseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sk6yL9EGVeAcE/giphy.gif" width="600" alt="coding gif" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanoriruizs&theme=dracula&hide_border=false" width="80%" />
+</div>
