@@ -16,9 +16,3 @@ Desarrollador de software enfocado en crear soluciones seguras y escalables. Exp
 <div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWhjcDFpMnIwMG5rdWYwNmFtOXJpNHAxOWJ1Y2hnaXBxcmVrcWJseCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/sk6yL9EGVeAcE/giphy.gif" width="600" alt="coding gif" />
 </div>
-
----
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanoriruizs&theme=dracula&hide_border=false" width="80%" />
-</div>
